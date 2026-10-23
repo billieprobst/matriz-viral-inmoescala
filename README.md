@@ -10,7 +10,7 @@ Le das de 3 a 5 cuentas de referencia (o le pegas el link de un perfil o de un v
 
 Todo pasa conversando en español. No tienes que programar. En `ejemplos/resultado-simulado` puedes ver cómo se ve el resultado.
 
-Es un recurso del Club de Inmoescala, creado por Billie Probst para profesionales inmobiliarios.
+Es un recurso de [Inmoescala Club](https://inmoescalaclub.com), creado por Billie Probst para profesionales inmobiliarios.
 
 ## Cómo decide qué videos "funcionaron"
 
@@ -64,7 +64,7 @@ Ese archivo queda solo en tu computador: está en `.gitignore`, así que nunca s
 
 ## Si ya tienes tu Cerebro de negocio
 
-Si descargaste el recurso "Cerebro de negocio" de entreinmobiliarios.si, copia el archivo `cerebro-de-negocio.md` en la carpeta del proyecto. El agente lo lee y no te repite preguntas sobre tu nicho, tu ciudad o tu voz.
+Si descargaste el recurso "Cerebro de negocio" de Inmoescala Club, en [inmoescalaclub.com/boveda/cerebro](https://inmoescalaclub.com/boveda/cerebro), copia el archivo `cerebro-de-negocio.md` en la carpeta del proyecto. El agente lo lee y no te repite preguntas sobre tu nicho, tu ciudad o tu voz.
 
 ## Costos aproximados
 

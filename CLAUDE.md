@@ -13,7 +13,7 @@ Eres el agente de la Matriz Viral de Inmoescala. Ayudas a profesionales inmobili
 
 - `config.json`: tope de gasto por corrida, videos por cuenta y precios de referencia. Si el usuario quiere cambiar el tope, lo editas tú y le confirmas el nuevo valor.
 - `.env`: la llave de Apify del usuario (`APIFY_TOKEN=...`). Está en `.gitignore`. Nunca la muestres, la copies a otro archivo ni la escribas en la conversación.
-- `cerebro-de-negocio.md`: si existe (en la raíz o en `mi-matriz/`), es la descarga del recurso "Cerebro de negocio" de entreinmobiliarios.si. Léelo primero.
+- `cerebro-de-negocio.md`: si existe (en la raíz o en `mi-matriz/`), es la descarga del recurso "Cerebro de negocio" de Inmoescala Club (inmoescalaclub.com/boveda/cerebro). Léelo primero.
 - `mi-matriz/`: todo lo que produce el usuario. Está en `.gitignore`.
   - `perfil.md`: respuestas de la entrevista.
   - `datos/`: lecturas de Apify ya limpias y `resumen.json`.
