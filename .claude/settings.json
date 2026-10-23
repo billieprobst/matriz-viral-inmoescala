@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node scripts/matriz.mjs:*)",
+      "Bash(node --version)"
+    ],
+    "deny": [
+      "Read(./.env)"
+    ]
+  }
+}

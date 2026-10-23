@@ -1,0 +1,18 @@
+{
+  "tope_usd_por_corrida": 1.0,
+  "videos_por_cuenta": 20,
+  "max_cuentas": 5,
+  "actores": {
+    "instagram": {
+      "id": "apify~instagram-reel-scraper",
+      "usd_por_video": 0.0026,
+      "usd_por_corrida": 0.02
+    },
+    "tiktok": {
+      "id": "clockworks~tiktok-scraper",
+      "usd_por_video": 0.0017,
+      "usd_por_corrida": 0.02
+    }
+  },
+  "precios_revisados": "2026-10, plan gratis de Apify. Revisa la ficha de cada actor si cambian."
+}

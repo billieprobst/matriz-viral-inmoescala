@@ -1,0 +1,6 @@
+# Tu llave y tu trabajo nunca se suben
+.env
+mi-matriz/
+cerebro-de-negocio.md
+node_modules/
+.DS_Store
